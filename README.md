@@ -4,6 +4,7 @@ A list of terrible Fediverse (Pleroma, Mastodon, Misskey etc) instances you shou
 If you want to add an instance to this list, make an [issue](https://github.com/DrivetDevelopment/FediBlock/issues)!
 
 ## Pedo/CP instances
+If you have (I recommend you to not) to open any of these sites to check for yourself, please use the Tor Browser to protect yourself. You don't know what these instances would do to you.
 | Instance URL          | Reason          |
 |-----------------------|-----------------|
 | posting.lolicon.rocks | URL explains it |
