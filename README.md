@@ -11,3 +11,4 @@ If you want to add an instance to this list, make an [issue](https://github.com/
 | youjo.love            | Pedo/Loli instance.|
 | nnia.space            | MAP safespace |
 | pedo.school           | ...cmon       |
+| freak.univeristy      | Blocked an instance for being "anti MAP". I think that says enough. |
