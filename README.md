@@ -1,7 +1,7 @@
 # Fediblock
 A list of terrible Fediverse (Pleroma, Mastodon, Misskey etc) instances you should block.
 
-If you want to add an instance, make an [issue](https://github.com/DrivetDevelopment/FediBlock/issues)
+If you want to add an instance to this list, make an [issue](https://github.com/DrivetDevelopment/FediBlock/issues)!
 
 ## Pedo/CP instances
 | Instance URL          | Reason          |
